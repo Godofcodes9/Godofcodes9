@@ -1,0 +1,4 @@
+a566b3a2ae575952098e26877f52659c4387059a34f33c66fb22f3f10d177b88  0.0.4/gimhook-darwin-arm64.zip
+bba4f35f3571e2b36c67e5e6cab7eec77cbe255a67cbf706e4362fc31b0ec358  0.0.4/gimhook-darwin-x64.zip
+bb934b57e6c6a4633a4d2b0ed8dd146b0fa5beb9dabb19abb6278aacaddd44c7  0.0.4/gimhook-linux-x64.tar.gz
+34a78997fdbbc8a59af4d7f7007592577b369c3efa3e29c63b8a2963e795462a  0.0.4/gimhook-win32-x64.zip
